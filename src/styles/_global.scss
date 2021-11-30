@@ -1,0 +1,21 @@
+$primaryColor: darkcyan;
+$secondaryColor: darkslategray;
+
+html {
+  font-family: generalFont;
+}
+
+h1 {
+  color: $primaryColor;
+}
+
+.container{
+  &_lorem {
+    color: $secondaryColor;
+    display: block;
+    height: 140px;
+    background: url("../images/NYC.jpg");
+    display: flex;
+    justify-content: center;
+  }
+}

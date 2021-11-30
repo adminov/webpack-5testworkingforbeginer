@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a0cfcfc-6ef3-46ff-9d30-0000c34e24f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21Pxj78ERgWgwsJU1n7R6xkDtkq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/fonts" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\batish\webpack1\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\batish\webpack1\src\fonts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a0cfcfc-6ef3-46ff-9d30-0000c34e24f7" name="Default Changelist" comment="" />
+      <created>1637856655119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637856655119</updated>
+      <workItem from="1637856656634" duration="6334000" />
+      <workItem from="1638185600360" duration="399000" />
+      <workItem from="1638199353346" duration="5518000" />
+      <workItem from="1638206476678" duration="9472000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1229" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1637856853302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1229" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637856853302" />
+    <state x="175" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1638276535779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="175" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1638276535779" />
+  </component>
+</project>
